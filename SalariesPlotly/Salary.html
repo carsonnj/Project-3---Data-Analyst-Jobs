@@ -1,42 +1,44 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Plotly Line Chart</title>
 </head>
 <body>
 
-<div id="plotly-chart"></div>
+<div id="plotlyChart"></div>
 
 <script>
-    // Example JSON data (replace with your actual JSON data)
-    var jsonData = '[{"Years of Experience":5,"Salary":90000},{"Years of Experience":3,"Salary":65000}, ...]';
+// Sample data
+const jsonData = [{"Years of Experience":0.0,"Salary":29680.2333333333},{"Years of Experience":0.5,"Salary":35000.0},{"Years of Experience":1.0,"Salary":46992.8462962963},{"Years of Experience":1.5,"Salary":36279.1666666667},{"Years of Experience":2.0,"Salary":58699.4573770492},{"Years of Experience":3.0,"Salary":72944.4069767442},{"Years of Experience":4.0,"Salary":83332.0900383142},{"Years of Experience":5.0,"Salary":103111.0927318296},{"Years of Experience":6.0,"Salary":111891.1461187215},{"Years of Experience":7.0,"Salary":122108.2322946176},{"Years of Experience":8.0,"Salary":126438.1388235294},{"Years of Experience":9.0,"Salary":138021.4605263158},{"Years of Experience":10.0,"Salary":131690.3229166667},{"Years of Experience":11.0,"Salary":153060.31875},{"Years of Experience":12.0,"Salary":153398.0646258503},{"Years of Experience":13.0,"Salary":153002.1818181818},{"Years of Experience":14.0,"Salary":168632.3636363636},{"Years of Experience":15.0,"Salary":160664.7596899225},{"Years of Experience":16.0,"Salary":183285.4380165289},{"Years of Experience":17.0,"Salary":184053.8301886792},{"Years of Experience":18.0,"Salary":184340.4126984127},{"Years of Experience":19.0,"Salary":182430.3305785124},{"Years of Experience":20.0,"Salary":182288.7213114754},{"Years of Experience":21.0,"Salary":176734.1904761905},{"Years of Experience":22.0,"Salary":188644.5319148936},{"Years of Experience":23.0,"Salary":189573.7027027027},{"Years of Experience":24.0,"Salary":211225.4210526316},{"Years of Experience":25.0,"Salary":177803.4583333333},{"Years of Experience":26.0,"Salary":187717.2857142857},{"Years of Experience":27.0,"Salary":187922.6363636364},{"Years of Experience":28.0,"Salary":189774.8125},{"Years of Experience":29.0,"Salary":181437.0},{"Years of Experience":30.0,"Salary":163339.8333333333},{"Years of Experience":31.0,"Salary":183027.2},{"Years of Experience":32.0,"Salary":192540.8},{"Years of Experience":33.0,"Salary":186400.6666666667},{"Years of Experience":34.0,"Salary":188}
+];
 
-    // Parse JSON data
-    var data = JSON.parse(jsonData);
+// Extract x and y data
+const xData = jsonData.map(entry => entry["Years of Experience"]);
+const yData = jsonData.map(entry => entry.Salary);
 
-    // Define Plotly trace
-    var trace = {
-        x: data.map(entry => entry['Years of Experience']),
-        y: data.map(entry => entry['Salary']),
-        type: 'scatter',
-        mode: 'lines+markers',
-        name: 'Salary vs Years of Experience'
-    };
+// Create a Plotly trace
+const trace = {
+    x: xData,
+    y: yData,
+    mode: 'lines',
+    type: 'scatter',
+    name: 'Average Salary'
+};
 
-    // Create layout
-    var layout = {
-        title: 'Salary vs Years of Experience',
-        xaxis: {
-            title: 'Years of Experience'
-        },
-        yaxis: {
-            title: 'Salary'
-        }
-    };
+// Create layout
+const layout = {
+    title: 'Average Salary per Years of Experience',
+    xaxis: { title: 'Years of Experience' },
+    yaxis: { title: 'Salary' }
+};
 
-    // Create plot
-    Plotly.newPlot('plotly-chart', [trace], layout);
+// Create Plotly data array
+const plotData = [trace];
+
+// Create a Plotly chart
+Plotly.newPlot('plotlyChart', plotData, layout);
 </script>
 
 </body>
