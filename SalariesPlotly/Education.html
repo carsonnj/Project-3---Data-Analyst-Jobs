@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Plotly Bar Chart</title>
+</head>
+<body>
+
+<div id="plotlyChart"></div>
+
+<script>
+// Sample data
+const jsonData = [{"Education Level":"Bachelor's","Salary":124767.6587301587},{"Education Level":"Bachelor's Degree","Salary":85174.8860927152},{"Education Level":"High School","Salary":36706.6941964286},{"Education Level":"Master's","Salary":157604.1666666667},{"Education Level":"Master's Degree","Salary":125075.3339694656},{"Education Level":"PhD","Salary":165684.8289473684},{"Education Level":"phD","Salary":120000.0}
+    
+];
+
+// Extract x and y data
+const xData = jsonData.map(entry => entry["Education Level"]);
+const yData = jsonData.map(entry => entry.Salary);
+
+// Create a Plotly trace
+const trace = {
+    x: xData,
+    y: yData,
+    type: 'bar',
+    text: yData.map(value => `$${value.toFixed(2)}`),  // Optional: display salary on hover
+    marker: {
+        color: 'blue'  // Optional: customize bar color
+    }
+};
+
+// Create layout
+const layout = {
+    title: 'Salary by Education Level',
+    xaxis: { title: 'Education Level' },
+    yaxis: { title: 'Salary' }
+};
+
+// Create Plotly data array
+const plotData = [trace];
+
+// Create a Plotly chart
+Plotly.newPlot('plotlyChart', plotData, layout);
+</script>
+
+</body>
+</html>
