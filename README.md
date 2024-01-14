@@ -24,7 +24,7 @@ Teams:
 Backend: Mamatha, Trevor, Nick 
 -Developing more than 5 tables in Postgres.
 -Clean up all the data to only what is relavent and isn't null.
--Set up unique keys for j000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ob titles and companies on the job avaliablity tables
+-Set up unique keys for job titles and companies on the job avaliablity tables
 -Creating ERD with relationships.
 
 Developer: Shivantika, Tamara, Nick
