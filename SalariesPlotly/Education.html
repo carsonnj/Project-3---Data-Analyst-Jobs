@@ -12,22 +12,29 @@
 
 <script>
 // Sample data
-const jsonData = [{"Education Level":"Bachelor's","Salary":124767.6587301587},{"Education Level":"Bachelor's Degree","Salary":85174.8860927152},{"Education Level":"High School","Salary":36706.6941964286},{"Education Level":"Master's","Salary":157604.1666666667},{"Education Level":"Master's Degree","Salary":125075.3339694656},{"Education Level":"PhD","Salary":165684.8289473684},{"Education Level":"phD","Salary":120000.0}
-    
+const jsonData = [
+    {"Education Level": "High School", "Salary": 90315},
+    {"Education Level": "Bachelor's", "Salary": 100255},
+    {"Education Level": "Master's", "Salary": 134867},
+    {"Education Level": "PhD", "Salary": 176750}
 ];
 
 // Extract x and y data
 const xData = jsonData.map(entry => entry["Education Level"]);
 const yData = jsonData.map(entry => entry.Salary);
 
+// Specify different colors for each bar
+const colors = ['#85C1E1', '#9ECDE0', '#B8D9DF', '#D3E5DE'];
+
 // Create a Plotly trace
 const trace = {
     x: xData,
     y: yData,
     type: 'bar',
-    text: yData.map(value => `$${value.toFixed(2)}`),  // Optional: display salary on hover
+    text: yData.map(value => `<b>$${value.toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ',')}</b>`),  // Display bold salary with commas
+    textposition: 'auto',  // Automatically position the text above the bars
     marker: {
-        color: 'blue'  // Optional: customize bar color
+        color: colors  // customize bar color
     }
 };
 
