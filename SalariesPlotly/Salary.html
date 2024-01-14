@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+
+<div id="plotly-chart"></div>
+
+<script>
+    // Example JSON data (replace with your actual JSON data)
+    var jsonData = '[{"Years of Experience":5,"Salary":90000},{"Years of Experience":3,"Salary":65000}, ...]';
+
+    // Parse JSON data
+    var data = JSON.parse(jsonData);
+
+    // Define Plotly trace
+    var trace = {
+        x: data.map(entry => entry['Years of Experience']),
+        y: data.map(entry => entry['Salary']),
+        type: 'scatter',
+        mode: 'lines+markers',
+        name: 'Salary vs Years of Experience'
+    };
+
+    // Create layout
+    var layout = {
+        title: 'Salary vs Years of Experience',
+        xaxis: {
+            title: 'Years of Experience'
+        },
+        yaxis: {
+            title: 'Salary'
+        }
+    };
+
+    // Create plot
+    Plotly.newPlot('plotly-chart', [trace], layout);
+</script>
+
+</body>
+</html>
