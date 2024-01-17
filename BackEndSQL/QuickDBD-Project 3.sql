@@ -38,8 +38,8 @@ CREATE TABLE Company (
 -- Table 3: Company Rating
 CREATE TABLE CompanyRating (
     CompanyID INT   NOT NULL,
-    CompanyName VARCHAR(255)   NOT NULL,
-    Rating INT   NOT NULL
+    Company_Name VARCHAR(255)   NOT NULL,
+    Rating Decimal(2,2)   NOT NULL
 );
 
 -- Table 4: Salaries
