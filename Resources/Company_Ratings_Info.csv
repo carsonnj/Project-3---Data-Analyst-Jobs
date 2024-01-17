@@ -1,0 +1,977 @@
+CompanyID,Company Name,Rating
+1,Epiq Systems,3.6
+2,Akima Management Services,3.3
+3,"Dexcom, Inc.",3.5
+4,Assembly,3.4
+5,Stantec,3.7
+6,Milliman,3.8
+7,Informa Intelligence,3.8
+8,ICF,3.5
+9,AppleOne,3.3
+10,Kforce,3.3
+11,N.F. Smith & Associates,4.1
+12,University of Florida,4.1
+13,Arizona State University,4.1
+14,UTHealth Houston,4.1
+15,Dallas Independent School District,4.1
+16,Dallas ISD,4.1
+17,Midland Credit Management,4.1
+18,Vantage Bank Texas,4.1
+19,Hilltop Holdings,4.1
+20,Encore Capital Group,4.3
+21,Tempus,4.3
+22,Nuveen,4
+23,Capital Group,3.3
+24,Freedom Mortgage,3.3
+25,DMGT,3.4
+26,Apollo Global Management,2.9
+27,Rush University Medical Center,3.2
+28,Nationwide Children's Hospital,3.3
+29,Nationwide Childrens Hospital,3.3
+30,PIH Health,3.3
+31,"Premier, Inc.",3.9
+32,RWJBarnabas Health,4.2
+33,AIDS Healthcare Foundation,4.2
+34,Mount Sinai Health System,4.2
+35,Allscripts,4.2
+36,Cadence Design Systems,4
+37,"Cadence Design Systems, Inc.",3
+38,F5 Networks,3
+39,Square,3.9
+40,Splunk,3.7
+41,"Internet Brands, Inc.",3.7
+42,Internet Brands,3.7
+43,Twilio,3.7
+44,Sharp Electronics Corporation,3.6
+45,Atos Syntel Inc.,3
+46,UST Global,3.7
+47,DJO Global,4.7
+48,New York Times,3.4
+49,"John Wiley & Sons, Inc.",3.4
+50,Hulu,3.4
+51,"Take-Two Interactive Software, Inc.",3.3
+52,Take-Two,4.1
+53,Viasat,4.1
+54,BDP International,4.1
+55,Centrillion,3.8
+56,Midan Marketing,4
+57,Infotree Service Inc,4
+58,Concept Software & Services Inc,3.9
+59,United IT Solutions,3.5
+60,"EDP World, Inc.",4.2
+61,Canvas InfoTech Inc.,3
+62,Esquire Recruiting,3.8
+63,Steiner Electric Co,3.3
+64,Advisor Group,3.8
+65,Veem,3.7
+66,Marin City Health and Wellness Center,3.7
+67,"AOC Solutions, Inc.",4.1
+68,Web Shop Manager,3
+69,"8K Miles Software Services, Inc.",2.2
+70,Focal Systems,3
+71,Upper Hand,3.7
+72,Frontend Arts,3.7
+73,Gloo,3.7
+74,Wellth Inc.,3.7
+75,First Professional Services,5
+76,E Business International,3.8
+77,Optima Global Solutions,3.5
+78,Trillium Solutions Group,3.5
+79,"Dedicated Tech Services, Inc.",4.1
+80,InvenTech Info,4.6
+81,eDataForce consulting LLC,3
+82,Pareto Systems,3.4
+83,FAMILY INVOLVEMENT CENTER,4.1
+84,Sense Corp,4.5
+85,"GStek, Inc.",3.8
+86,Blue Origin,4.2
+87,Giving Assistant,4.2
+88,Mackin,3.7
+89,"Orbis, Inc.",3.8
+90,Analytical Mechanics Associates,3.8
+91,Midcom,4.5
+92,"Innovative Development, LLC",4.5
+93,Briljent,3.9
+94,"PRIMUS Global Services, Inc",5
+95,AXSEUM Inc,5
+96,"Relevante, Inc.",3.1
+97,STAND 8 Technology Services,3.9
+98,Praescient Analytics,4.8
+99,North Central Texas Council of Governments,4.5
+100,DW Simpson,4.8
+101,Norgate Technology Inc,4.8
+102,Accounting Principals,4.8
+103,CRS Group,3.4
+104,SRG Woolf,4.3
+105,"iTech Solutions, Inc",3.6
+106,Peyton Resource Group (PRG),3.8
+107,Peyton Resource Group,3.2
+108,The Carrera Agency,2.9
+109,NJF Global Holdings,4.8
+110,McGrath Systems,3.4
+111,KORE1 Technologies,4.9
+112,"TekCom Resources, Inc.",4.9
+113,W3Global,4.9
+114,Crawford Thomas Recruiting,4.9
+115,Russell Tobin & Associates,3.5
+116,ektello,3.5
+117,ORS Partners,3.5
+118,MedImpact,3.8
+119,Virtus Partners LLC,3.5
+120,KGS,3.7
+121,Acumen,3.1
+122,Trinity Health,3.9
+123,Saratoga Medical Center,3.1
+124,VITALWARE LLC,3.1
+125,TechDigital Corporation,3.1
+126,Hazelcast,3.1
+127,"Netpace, Inc.",3.1
+128,"Netpace, Inc",2.6
+129,Global Healthcare Exchange,4.2
+130,"Competent Systems, Inc",3.3
+131,pureIntegration,4
+132,Servient,4.7
+133,"Zachary Piper Solutions, LLC",4.7
+134,LeanData,4.6
+135,GroupBy Inc.,3.8
+136,MyLife.com,3.9
+137,Duolingo,3.9
+138,PubNub,4.9
+139,Information Technology Partners,4.2
+140,Serverlogic,3.7
+141,"Halcyon Solutions, Inc.",4.9
+142,"Micro-Data Systems, Inc.",4.9
+143,Micro-Data Systems Inc.,4.9
+144,Dextro Software Systems,4.5
+145,"Aviana Global Technologies, Inc",5
+146,ClientSolv Technologies,3.5
+147,Seven Seven Softwares,2.5
+148,DynPro Inc.,2.8
+149,"Paramount Software Solutions, Inc",4.7
+150,GoAhead Solutions,3.2
+151,Strategic Systems,3.2
+152,SBG Techology Solutions,3.2
+153,BridgeView IT,3.2
+154,IntegriChain,3.2
+155,SRA OSS,3.3
+156,Precision technologies corp,4.1
+157,Tachyon Technologies LLC,3.5
+158,Tachyon Technologies,4
+159,Nucleusteq,3.9
+160,Plymouth Rock Assurance,3.7
+161,Rockstar Games,3.7
+162,COUNCIL ON ACCREDITATION,3.4
+163,CASES,4
+164,National Capitol Contracting (NCC),3.9
+165,"Resource Logistics, Inc.",3.9
+166,EY,4
+167,Boeing,5
+168,Textron,2.8
+169,Northrop Grumman,3.5
+170,General Dynamics,3.3
+171,Lockheed Martin,3.3
+172,GSK,3.5
+173,Thermo Fisher Scientific,4.2
+174,AbbVie,3.3
+175,Willis Towers Watson,3.3
+176,Accenture,3.3
+177,Arrow Electronics,3.3
+178,Stanford University,3.1
+179,BMO Financial Group,3.1
+180,PNC Financial Services Group,3.5
+181,Wells Fargo,4.3
+182,TD Bank,4.5
+183,MUFG,3.7
+184,Bank of America,3.2
+185,First Republic Bank,4.2
+186,Federal Reserve Bank,4.2
+187,FIS,4.4
+188,BNY Mellon,4.4
+189,The Bank of New York Mellon,4.4
+190,JPMorgan Chase,4.1
+191,"JPMorgan Chase Bank, N.A.",3.8
+192,J.P. Morgan,3.2
+193,JPMorgan Chase & Co.,4.7
+194,Citi,3.8
+195,Scotiabank,3.7
+196,UBS,3.7
+197,Goldman Sachs,3.8
+198,Deutsche Bank,3.8
+199,Morgan Stanley,3.8
+200,SMBC Group,3.8
+201,Sumitomo Mitsui Banking Corporation (SMBC),3.9
+202,HomeBridge Financial Services,3.4
+203,Fairway Independent Mortgage Corporation,3.9
+204,Abbott Laboratories,3.9
+205,Abbott,3.6
+206,Kaiser Permanente,3.9
+207,CVS Health,3.7
+208,Northwell Health,3.4
+209,Tata Consultancy Services,3.6
+210,SAP,3.6
+211,Microsoft Corporation,3.9
+212,Apple,3.1
+213,McAfee,3.1
+214,World Wide Technology,3.1
+215,Capgemini,3.1
+216,Oracle,3.7
+217,Amazon,3.7
+218,eBay,3.2
+219,Google,3.2
+220,IBM,3.2
+221,Atos,3.2
+222,NTT DATA Services,3.2
+223,NTT DATA Corporation,3.2
+224,NTT DATA,3.9
+225,Tata Consultancy Services (North America),3.9
+226,General Dynamics Information Technology,3.9
+227,New York Life Insurance Co,3.9
+228,Horizon Blue Cross Blue Shield of New Jersey,3.9
+229,Blue Shield of California,3.9
+230,Molina Healthcare,3.9
+231,Centene Corporation,3.9
+232,Wellcare,3.7
+233,Unilever,3.7
+234,TE Connectivity,3.7
+235,Smithfield,3.6
+236,BD,3.6
+237,Medline Industries,3.6
+238,Bosch Group,4
+239,MeadWestVaco,4
+240,Walt Disney Co.,4
+241,Walt Disney Company,4
+242,Warner Bros. Entertainment,3.5
+243,NBCUniversal,3.5
+244,Turner Broadcasting,3.5
+245,NCSOFT,3.8
+246,Xcel Energy,3.4
+247,Walgreens,3.4
+248,Costco Wholesale Corporation,3.1
+249,H E B,3.7
+250,Lidl,3.6
+251,Lowe's,3.6
+252,CenturyLink,4
+253,Nokia,4
+254,Kuehne + Nagel,4
+255,Uhaul,4
+256,Sycuan Casino,2.9
+257,Bandai Namco Entertainment America,4
+258,FanDuel,4
+259,United BioSource,3.8
+260,The Richards Group,4.6
+261,CMI/Compas,4.3
+262,Match Group,4.3
+263,QuinStreet,4.3
+264,Known,4.3
+265,MediaMath,4.3
+266,FacilitySource,4.1
+267,LMI,4.1
+268,G.A.S. Global,4.1
+269,APCO Worldwide,4.1
+270,Centric Consulting,4.1
+271,"Education Development Center, Inc.",4.1
+272,The Judge Group,4.1
+273,"The Judge Group, Inc.",4.1
+274,"PDS Tech, Inc.",3.8
+275,Mitchell Martin,3.8
+276,Mastech Digital,3.6
+277,Strategic Staffing Solutions,3.6
+278,Rose International,3.9
+279,Ajilon,3.9
+280,Contemporary Staffing Solutions,3.9
+281,CSI Tech Inc.,3.5
+282,"Pinnacle Technical Resources, Inc.",4.4
+283,Signature Consultants,4.4
+284,Icon Consultants,3.7
+285,TechUSA,3.4
+286,CyberCoders,3.4
+287,Ascent,3.5
+288,The Ascent Services Group,3.6
+289,"US Tech Solutions, Inc",4.1
+290,LanceSoft Inc,3.1
+291,ICONMA,3.1
+292,"ICONMA, LLC",3.1
+293,"Iconma, L.L.C.",3.3
+294,Mondo,3.3
+295,Infinity Consulting Solutions,3.4
+296,Diversant LLC,4.1
+297,Genuent,4
+298,"Genuent Global, LLC",4
+299,Net2Source,4
+300,GHX,3.8
+301,McLane Global,3.7
+302,"Epsilon Systems Solutions, Inc.",3.7
+303,Corbins Electric,3.7
+304,Hampton University,3
+305,Cuny Research Foundation,3.5
+306,University of Texas at Arlington,3
+307,National Education Partners,3
+308,HealthStream,4
+309,Alliant Credit Union,4
+310,Alaska USA,4
+311,Texas Dow Employees Credit Union,4.3
+312,Cowen,3.3
+313,Eagle Investment Systems,3.3
+314,Q2eBanking,3.3
+315,PEAK6 Investments,3.3
+316,Houston-Galveston Area Council,3.3
+317,Providence Health & Services,3.3
+318,Kelsey-Seybold Medical Group,3
+319,Kelsey Seybold Clinic,3
+320,Health & Hospital Corporation,3
+321,Harris County,4.1
+322,Harris Health System,3.5
+323,Fox Chase Cancer Center,3.1
+324,Village Care,3.3
+325,Exact Sciences Corporation,3.1
+326,Ascension,3.9
+327,OrthoCarolina,2.3
+328,Paladin Consulting Inc,3.7
+329,Stamps.com,3.6
+330,Qualys,2.8
+331,Zen3 Infosolutions America Inc,3.2
+332,Risk Management Solutions (RMS),3.2
+333,Alteryx,3
+334,"Avetta, LLC",3.6
+335,Bazaarvoice,3.6
+336,Riskonnect,4
+337,2U,3
+338,Ascential,3.4
+339,Poshmark,5
+340,Accenture Federal Services,3.9
+341,Decision Resources Group,3.5
+342,Xoriant Corporation,3.5
+343,"InfoVision, Inc.",3.5
+344,Technosoft Corporation,3.5
+345,"Fast Switch, LTD",3.5
+346,Oasis Systems,3.5
+347,"Oasis Systems, LLC",3.5
+348,Milestone Technologies Inc.,3.8
+349,Advent Global Solutions,4.1
+350,"Advent Global Solutions, Inc.",4.1
+351,"Infomerica, Inc",4.1
+352,NJVC,4.1
+353,CoreSite,4.5
+354,Diverse Lynx,3.1
+355,Numerator,2.7
+356,PK,2.7
+357,CitiusTech,2.7
+358,"Next Level Business Services, Inc.",2.7
+359,Incedo Inc,2.7
+360,eHealth,2.7
+361,Allied Solutions,2.7
+362,GNY Insurance Companies,2.7
+363,Power Integrations,4.2
+364,Tech Air,4.2
+365,"Janus International Group, LLC",4.2
+366,Wildlife Conservation Society,4.6
+367,YAI/NIPD Network,4.6
+368,Vera Institute of Justice,4.6
+369,Acacia Network,4.6
+370,Fred Hutch,4.6
+371,Ho Chunk,3.7
+372,"U.S. Auto Parts Network, Inc.",3.8
+373,Vionic Group,3.8
+374,NextGen Global Resources LLC,3.6
+375,Circle Logistics,3.6
+376,Bell Helicopter,3.6
+377,CACI International,3.6
+378,William Hill US,3.8
+379,Avantor,3.9
+380,Bio-Rad,3.9
+381,Hikma Pharmaceuticals,3.9
+382,Eurofins,3.9
+383,Vertex Pharmaceuticals,3.9
+384,Illumina,3.9
+385,ALERE,3.9
+386,Aegis Media,3.9
+387,"Tetra Tech, Inc.",3.8
+388,Tetra Tech,3.8
+389,Brink's,3.9
+390,ADT,3.9
+391,Robert Half,3.4
+392,TEKsystems,3.5
+393,"TEKsystems, Inc",3.5
+394,Apex Systems,2.5
+395,Employbridge,3.4
+396,Swinerton Builders,3.4
+397,University of Georgia,3.1
+398,University of Utah,3.7
+399,Johns Hopkins University,3.7
+400,University of Southern California,3.2
+401,University of Chicago,2.9
+402,Columbia University,2.5
+403,California State University,3.4
+404,Bank of the West,3.6
+405,BMO,3.6
+406,Northern Trust,3.6
+407,Computershare,3.6
+408,Heartland Payment Systems,3.6
+409,Navient,3.4
+410,Brown Brothers Harriman,3.4
+411,LACERA,3.4
+412,Jefferies,3.4
+413,SCL Health,4
+414,Franciscan Health,2
+415,Montefiore Medical,4
+416,Visiting Nurse Service of New York,3.3
+417,Cedars-Sinai,3.3
+418,Stanford Health Care,3.6
+419,Metroplus Health Plan,3.1
+420,Sonic Healthcare USA,3
+421,Autodesk,3
+422,Intuit,3.9
+423,Fortinet,3.9
+424,Gemalto,3.7
+425,Criteo,3.7
+426,Twitter,3.5
+427,Genpact,3.4
+428,Mercury Insurance Group,4.8
+429,SCAN Health Plan,3.6
+430,CNO Financial Group,3.1
+431,Kemper,3.7
+432,Square Trade,3.7
+433,HNI,3.6
+434,Mary Kay,4.4
+435,Central Garden & Pet Company,4.4
+436,The Wonderful Company LLC,3.8
+437,Molex,4.3
+438,Shamrock Foods,3.8
+439,Signode,3.8
+440,Kubota Tractor,3.8
+441,Colfax Corporation,3.8
+442,Tesla Motors,3.2
+443,Informa,3.4
+444,Electronic Arts,3.4
+445,Feeding America,4
+446,nana,2.8
+447,Atmos Energy Corp.,3.8
+448,Discount Tire,3.9
+449,Driven Brands,3.9
+450,Abercrombie & Fitch Co.,3.9
+451,"Circle K Stores, Inc.",3.9
+452,PETCO,3.9
+453,Crown Castle USA Inc,3.9
+454,ArcBest,3.9
+455,Connor Group,3.9
+456,Spectrum Comm,3.9
+457,Tarzana,3.9
+458,ABS Graphics,3.9
+459,Pushnami,3.9
+460,Collins Consulting Inc,3.9
+461,NYSTEC,3.9
+462,Akorbi,3.9
+463,Revel,3.9
+464,V.L.S. Systems,3.9
+465,NuWest Group,3.9
+466,Huxley,3.9
+467,Integrated Resources,3.9
+468,HireTalent,3.6
+469,Eclaro,4.4
+470,GTN Technical Staffing,3.4
+471,Kineticom,3.7
+472,SPECTRAFORCE TECHNOLOGIES Inc.,3.2
+473,Protingent,3.7
+474,Protingent Staffing,3.8
+475,Akraya Inc.,3.9
+476,OSI Engineering,3.2
+477,Jobot,3.3
+478,LEARN Charter School,3.9
+479,Crisis Response Network,2.8
+480,Child Mind Institute,2.8
+481,Lark Health,3.4
+482,RMS Computer,3.6
+483,RMS Computer Corporation,4.3
+484,FJA-US Inc.,3.7
+485,MedSeek,3.9
+486,Peterson Technology Partners,3.6
+487,Saicon Consultants Inc,3.6
+488,Lightspeed Systems,2.7
+489,TA Digital,2.4
+490,GeoDigital,2.4
+491,Contingent Network Services,3.3
+492,Subex,3.3
+493,Sysmind LLC,3.4
+494,Tillster,3.4
+495,PROLIM Global Corporation,3.3
+496,Recondo Technology,3.9
+497,Integrate,2.8
+498,Duetto,2.8
+499,"Sunrise Systems, Inc.",3.7
+500,Prosum,3.7
+501,VIVA USA INC,2.7
+502,22nd Century Technologies,3.5
+503,Zolon Tech Solutions Inc.,3.5
+504,"PruTech Solutions, Inc.",3.5
+505,Prudent Technologies & Consulting,3.5
+506,Softpath System LLC,3.5
+507,"Global Technical Talent, LLC",3.5
+508,Universal Consulting Services,3.5
+509,"Universal Consulting Services, Inc.",3.5
+510,"Evolver, Inc.",3.5
+511,VLink Inc.,3.9
+512,Crystal Equation,3.9
+513,amerihealth,3.9
+514,"Quicksilver Scientific, Inc",3.9
+515,National Kidney Foundation,3.9
+516,Brooklyn Community Services,3.9
+517,The Chicago Lighthouse,3.8
+518,Stem Inc,3.8
+519,Stem,3.8
+520,Real Capital Analytics,3.8
+521,Huntington Ingalls Industries,3.8
+522,Booz Allen Hamilton,3.8
+523,Kelly,3.8
+524,University of California,4.1
+525,M&T Bank Corporation,4.2
+526,Federal Reserve Bank of Richmond,4.2
+527,Broadridge,4.1
+528,Franklin Templeton Investments,4.2
+529,Macquarie Group,4
+530,Charles Schwab Corporation,4
+531,Charles Schwab,3.9
+532,"Intercontinental Exchange, Inc.",3.9
+533,GM Financial,4.1
+534,NYU Langone Health,2.8
+535,Quest Diagnostics,3.2
+536,Sutter Health System,3.2
+537,Motorola Solutions,3.7
+538,HCL America Inc.,3.1
+539,HCL Technologies Ltd.,2.9
+540,NVIDIA,3.3
+541,"Insight Enterprises, Inc.",3.5
+542,"Netflix, Inc.",3.6
+543,Netflix,3.4
+544,Facebook,3.7
+545,Wipro Ltd.,3.7
+546,First American Financial Corporation,3.9
+547,EmblemHealth,3.9
+548,AmeriHealth Caritas,3.9
+549,Airgas,3.9
+550,ON Semiconductor,2.7
+551,"TreeHouse Foods, Inc.",2.7
+552,Trinity Industries,4
+553,"Discovery Communications, Inc.",4
+554,Activision Blizzard,4
+555,National Grid USA,4.4
+556,O'Reilly Automotive,4.4
+557,American Tire Distributors,4.4
+558,FirstAmerica,4.5
+559,RiverPoint,3.3
+560,Alexza Pharmaceuticals,3.9
+561,Asembia,3.9
+562,Odesus,4
+563,GasPedal,4
+564,GDKN,3.5
+565,V R Della Infotech Inc,3.4
+566,Liberty Source,3.4
+567,SkySource Solutions,3.2
+568,Edmodo,3.2
+569,Financial Additions,2.7
+570,Zipongo,2.9
+571,Source of Future Technology Inc,3.5
+572,Apptricity Corporation,3.9
+573,SOFTHQ INC,3.6
+574,"VED Software Services, Inc.",3.6
+575,"iSpace, Inc",3.1
+576,Hexacorp,3.4
+577,xentity corporation,3.2
+578,Alliance IT,3.6
+579,Resource Informatics Group,2.1
+580,Motiv Power Systems,3.4
+581,Horne LLP,3.2
+582,Tecolote Research,3.9
+583,USfalcon,3.3
+585,Delmarva Foundation,3.8
+586,Workforce Logiq,1.8
+587,"Impaq International, Llc",3.5
+588,Ampcus Incorporated,2.9
+589,Maine Pointe,2.9
+590,Octo Consulting Group,2.9
+591,Horn Solutions Inc.,3.6
+592,Metropolitan Family Services,3.6
+593,"TSR, Inc.",3.6
+594,TSR Consulting,4
+595,Software Guidance & Assistance,3.8
+596,CornerStone Staffing,4.6
+597,Creative Financial Staffing,4.6
+598,Square One Resources,2.7
+599,"ConsultNet, LLC",3.8
+600,Kelly Mitchell Group,3.5
+601,Intelliswift Software Inc,3.6
+602,eTeam Inc.,3.3
+603,The Fountain Group,3.4
+604,Forfeiture Support Associates,4
+605,Yochana,4.4
+606,Swoon,4.6
+607,KIPP SoCal Public Schools,4.6
+608,University Federal Credit Union,4.6
+609,Desert Financial Credit Union,4.6
+610,BankFinancial Corporation,4.5
+611,Cross River Bank,5
+612,Bill.Com,5
+613,Onyx CenterSource,4.1
+614,Braviant Holdings,3.8
+615,London Stock Exchange Group,3.2
+616,CAMRIS International,3.2
+617,Harris County Appraisal District,3.9
+618,CHOP,3
+619,UCSF Medical Center,3
+620,Pacific Clinics,3
+621,HIMSS,3
+622,Telligen,2.8
+623,IPRO,2.6
+624,HealthHelp,2.6
+625,SAT Healthcare,4.3
+626,AbleTo,3.3
+627,Hinge Health,4.3
+628,CDO Technologies Inc,3.7
+629,Greenphire,2.4
+630,VTS,3.1
+631,Enquero Inc,3.2
+632,Matlen Silver,4.1
+633,DATA Inc.,3.3
+634,Indotronix International Corporation,3.4
+635,Mindteck,3.3
+636,"Computer Enterprises, Inc.",3.5
+637,TeamSoft,4.4
+638,Revel IT,4.5
+639,Keywords Studios,3.7
+640,System Soft Technologies,4
+641,"Amyx, Inc.",4.6
+642,Celerity,3.7
+643,IntraEdge,3.7
+644,"TalentBurst, Inc.",3.7
+645,Reliable Software Resources,3.8
+646,ISHPI Information Technologies,4.2
+647,Avani Technology Solutions,3.9
+648,"Staffigo Technical Services, LLC",3.9
+649,ApTask,3.6
+650,CYNET SYSTEMS,3.5
+651,Tek Leaders,3.6
+652,Efinancial,2.8
+653,Tandem Diabetes,2.8
+654,VNA Health Group,2.9
+655,"Public Health Foundation Enterprises, In",4
+656,Patient Advocate Foundation,4
+657,Invenergy,4
+658,Vivint Solar,4
+659,Shorenstein Realty Services L.P.,3.3
+660,Fragomen Worldwide,3.9
+661,Cepheid,3.7
+662,Mosaic Sales Solutions,3.5
+663,TransPerfect,3.5
+664,RGP,4.6
+665,Vaco Technology,4.1
+666,Vaco,3.9
+667,"Nesco Resource, LLC",3.9
+668,Artech LLC,4.5
+669,Modis,3.4
+670,Beacon Hill Staffing Group,3.4
+671,Century Communities,2.4
+672,University of California Berkeley,2.4
+673,Washington Federal,3.1
+674,The Paragon Group,3.1
+675,Wintrust Financial,3.6
+676,Axos Bank,2.5
+677,FINRA,2.9
+678,Neuberger Berman,2.9
+679,Freedom Financial Network,3.5
+680,"ServiceLink, a Black Knight Company",3.4
+681,ServiceLink,3.6
+682,"LendingTree, LLC.",3.1
+683,Mount Sinai Medical Center,2.8
+684,Shands Jacksonville,2.8
+685,Community Behavioral Health,3.8
+686,Ann & Robert H. Lurie Children's Hospital of Chicago,3.7
+687,Harris Computer,3.6
+688,RealPage,3.8
+689,Neustar,3.5
+690,Collabera,3.5
+691,Lionbridge,3.8
+692,American CyberSystems,4.6
+693,Perficient,4
+694,Roku,4.2
+695,AvMed Health Plans,4.4
+696,Robert Bosch Tool Corporation,4
+697,Zynga,2.9
+698,Weston Solutions,2.9
+699,Weston Solutions Inc.,3.7
+700,Empire Today,3.4
+701,Transportation Insight,5
+702,Flexport,5
+703,"GenapSys, Inc.",4.6
+704,BTG,4.6
+705,Arthur Lawrence,3.1
+706,Anzu Global,3.8
+707,TalentCare,4.3
+708,Ongig,3.4
+709,BCforward,3.1
+710,Black Knight Financial Services,3.1
+711,Sun and Ski Sports,3.6
+712,Roig Lawyers,3.4
+713,Perspecta,3.4
+714,Roar Digital,3.9
+715,NCSA - Next College Student Athlete,3.9
+716,Saama Technologies Inc,4.5
+717,Cue,3.9
+718,Perfect Day,4.2
+719,ConnectiveRx,3.2
+720,Tempus Labs,3.6
+721,AllianceRx Walgreens Prime,3.6
+722,EVERSANA,3.6
+723,Fleishman-Hillard Inc,3.7
+724,Undertone,3.7
+725,ERGO,3.8
+726,ProMedia,4.5
+727,Dot818,4.3
+728,Bounce Exchange,4.3
+729,ZS Associates,4.3
+730,A2C Consulting,3
+731,USDM Life Sciences,3.7
+732,Na Ali'i,3.7
+733,Quad Consultancy,3.7
+734,AustinCSI,3.7
+735,C2 GPS- Alamo Workforce,3.7
+736,"ARK Solutions, Inc.",3.7
+737,Counter Threat Solutions,3.7
+738,Guidehouse,3.7
+739,451 Research,3.7
+740,Cactus Holdings,3.7
+741,Guidepoint,3.6
+742,Earnest Research,2.8
+743,Riskified,2.8
+744,DISQO,2.8
+745,Epikso Inc,2.9
+746,Epikso,2.9
+747,Chenega Healthcare Services,4.6
+748,Smith Hanley Associates,4.6
+749,American Recruiting & Consulting Group,4.6
+750,Fidelity TalentSource,3.3
+751,Century Group (CA),3.5
+752,Open Systems Technologies (NYC),3.2
+753,Creative Data Resources,3.2
+754,Parker & Lynch,2.5
+755,Atrium Staffing,3.3
+756,i-CST,3.6
+757,"ICST, LLC",3.6
+758,Donnelly & Moore Corporation,4.8
+759,Tech Finders,3.2
+760,SNI Technology,4
+761,Addison Group,2.2
+762,Creative Circle,3.7
+763,The Accuro Group,4.1
+764,Green Key Resources,3.6
+765,Abacus Service Corporation,3
+766,A-Line Staffing Solutions,3.5
+767,Voca,3.5
+768,Cypress HCM,4.3
+769,Company Confidenital,4.4
+770,InterSources Inc.,3.3
+771,Piper Companies,3.3
+772,SkillsetGroup - Professional Staffing Solutions,3.6
+773,LaBine & Associates,4.2
+774,Genesys Talent,3.7
+775,Averity,3.4
+776,Sayva Solutions,4.3
+777,Quinn Company CAT,4.3
+778,"Quinn Group, Inc.",4.3
+779,Peloton Interactive,3.9
+780,Beautycounter,3.3
+781,Wider Circle,3.5
+782,LiveGlam,4.7
+783,University of Pennsylvania,5
+784,UC San Diego,3.1
+785,University of Illinois at Chicago,4.8
+786,Course Hero,4.8
+787,OnlineMedEd,4
+788,TutorMe,4
+789,Chicago Public Schools,4
+790,City National Bank,4
+791,City National Corporation,3.8
+792,Remitly,3.8
+793,Chime,3.9
+794,Dave,3.9
+795,Jordan & Jordan,3.9
+796,Robinhood,4
+797,Gemini,4
+798,Teacher Retirement System of Texas,4
+799,Western Asset,4
+800,Vanguard,4
+801,Geller & Company,4
+802,Guggenheim Partners,4
+803,Two Sigma,3.5
+804,The Voleon Group,4.5
+805,Point72,4.5
+806,Truist,4.5
+807,OneMain Financial,4.5
+808,Vervent,4.5
+809,SoFi,4.5
+810,Upstart,5
+811,Credible,5
+812,Home Point Financial,5
+813,Trivest,5
+814,Army Houston Recruiting Battalion,5
+815,Federal Reserve Bank (FRB),5
+816,Government Accountability Office,5
+817,United Nations,5
+818,Chicago,5
+819,Legislative Branch,5
+820,Texas Health & Human Services Commission,5
+821,Texas Health and Human Services Commission,5
+822,Texas Water Development Board,5
+823,TxDOT,5
+824,University of Illinois Hospital & Health Sciences System,5
+825,Cooper University Health Care,5
+826,UCLA Health,5
+827,Texas Scottish Rite Hospital for Children,5
+828,Didi Hirsch Mental Health Services,5
+829,University of California - San Diego Medical Centers,5
+830,ECRI,5
+831,"PMHCC, Inc.",5
+832,PMHCC Inc.,5
+833,WellDyneRx LLC,5
+834,Network Medical Management Inc,5
+835,Community Hospital Corporation,5
+836,ProHEALTH Care,5
+837,ProHEALTH Medical Management,5
+838,L.A. Care Health Plan,5
+839,Superior HealthPlan,5
+840,Matrix Medical Network,5
+841,GoHealth,5
+842,ICAP at Columbia University,5
+843,Buckeye Health Plan,5
+844,Envision Healthcare,5
+845,National NeuroMonitoring,5
+846,Cecelia Health,5
+847,First Stop Health,5
+848,Omada Health,5
+849,Radiology Partners,5
+850,HOMETEAM,5
+851,The Pill Club,5
+852,Vida Health,5
+853,Tandigm Health LLC,5
+854,Medly Pharmacy,5
+855,Signify Health,5
+856,Ro,5
+857,Strive Health,5
+858,Care Design New York,5
+859,Bloomberg,5
+860,"Verity, A HealthStream Company",5
+861,Beezwax Datatools,5
+862,cPanel,5
+863,Saama,5
+864,Dire Wolf Digital,5
+865,nWay,5
+866,Lyft,5
+867,Trifacta,3.9
+868,Housecall Pro,4
+869,Global Resale,4
+870,Scaleworks,4
+871,Nuro,4
+872,Spin,3.5
+873,PDI Software,3.5
+874,User Testing,3.8
+875,Angaza,3.3
+876,Doximity,3.3
+877,Snowflake Computing,2.7
+878,Olive,3.8
+879,Flatiron Health,3.5
+880,STRATIS IoT Inc,3.5
+881,Signal Sciences,3.8
+882,LaunchDarkly,3.2
+883,"Pieces Technology, Inc.",3.3
+884,Amenity Analytics,3.4
+885,Moveworks,3.4
+886,Scale AI,2.8
+887,Abnormal Security,4.1
+888,The Motley Fool,4.1
+889,Healthgrades,4.1
+890,Seer Interactive,3.3
+891,Squarespace,3.3
+892,BOLD,3.3
+893,LiveCareer,3.3
+894,Teachers Pay Teachers,3.3
+895,Lodestone,3.3
+896,Taskrabbit,3.3
+897,Life360,2.9
+898,CloudFlare,2.9
+899,Headspace,3.9
+900,Twitch,3.9
+901,Ibotta,3.9
+902,Coinbase,3.2
+903,Vettery,4.5
+904,System1,3.5
+905,OKCoin,4.1
+906,Lucky Day,3.6
+907,Vericred,2.9
+908,Narrativ,2.9
+909,Lilt,3.9
+910,Wilbur Labs,3.4
+911,TikTok,3.4
+912,Steady,2.5
+913,Disney Streaming Services,2.5
+914,National Computing Group,3.7
+915,Ionidea,3.7
+916,Calsoft Labs,3.1
+917,The Armada Group,3.1
+918,"Armada Group, Inc.",3.1
+919,L&T Infotech,3.1
+920,Idexcel Inc.,3.3
+921,Saviance Technologies,3.6
+922,Method360,3.6
+923,Convene Technologies,3.7
+924,Change Healthcare,4.3
+925,"Joomag, Inc.",2.8
+926,TechProjects,3.7
+927,Zoom,4.1
+928,Shape Security,4.1
+929,Mindstrong,4.1
+930,Adwait Algorithm,4.1
+931,"LeadStack, Inc.",4.1
+932,LeadStack,4.1
+933,Tech Firefly,3.3
+934,Arkhya Tech,3.6
+935,CSAA Insurance Group,3.6
+936,Blue Cross Blue Shield of Arizona,3.6
+937,Healthfirst,3.6
+938,Homesite Group,3.6
+939,Global Atlantic Financial Group,3.6
+940,Brighthouse Financial,3.9
+941,Luminess Cosmetics,3.1
+942,Ferrara Candy Company,3.1
+943,Mike's Hard Lemonade,4.1
+944,Mizuho OSI,3.6
+945,MotorTrend Group,3.5
+946,Fox Corporation,3.7
+947,Mobilityware,3.7
+948,Wargaming,3.5
+949,"ZeniMax Media, Inc.",3.8
+950,PlayQ,3.9
+951,Jam City,4.1
+952,"Level Ex, Inc.",4.1
+953,PUBG Santa Monica,4.8
+954,NADAP,4
+955,Leap,4.8
+956,Santanna Energy Services,2.8
+957,Momentum Solar,2.9
+958,CBRE,3.6
+959,Redfin,3.3
+960,Mill Creek Residential Trust,3.3
+961,Tripalink,4.9
+962,Revantage Corporate Services,3.7
+963,"Rodan and Fields, LLC",3.4
+964,Dollar Shave Club,4.2
+965,Enjoy Technology,4.4
+966,Revolve,3.1
+967,thredUP,3.2
+968,Signature Retail Services,3.2
+969,Jackson Hewitt,2.7
+970,The Loot Company,3.4
+971,EVMS,3.4
+972,Principle Auto,3.3
+973,Gopuff,3.8
+974,DHL,3.8
+975,Deliverr Inc,2.8
+976,Hyliion,4.4
+977,Hotel Engine,5
