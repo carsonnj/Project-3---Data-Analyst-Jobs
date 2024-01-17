@@ -24,15 +24,15 @@ CREATE TABLE jobs (
 -- Table 2: Company Data
 CREATE TABLE Company (
     CompanyID INT   NOT NULL,
-    CompanyName VARCHAR(255)   NOT NULL,
-    Location VARCHAR(255)   NOT NULL,
+    Company_name VARCHAR(255)   NOT NULL,
     Headquarters VARCHAR(255)   NOT NULL,
-    Size VARCHAR(50)   NOT NULL,
+    Size VARCHAR(255)   NOT NULL,
     Founded INT   NOT NULL,
-    Ownership VARCHAR(255)   NOT NULL,
-    Revenue DECIMAL(15,2)   NOT NULL,
+    Type_of_ownership VARCHAR(255)   NOT NULL,
+    Industry VARCHAR(255)   NOT NULL,
     Sector VARCHAR(255)   NOT NULL,
-    Industry VARCHAR(255)   NOT NULL
+    Revenue VARCHAR(255)   NOT NULL
+    
 );
 
 -- Table 3: Company Rating
