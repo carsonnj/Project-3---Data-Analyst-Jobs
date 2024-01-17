@@ -1,4 +1,4 @@
-CompanyID,Company Name,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue
+CompanyID,Company_name,Headquarters,Size,Founded,Type_of_ownership,Industry,Sector,Revenue
 1,Epiq Systems,"New York, NY",5001 to 10000 employees,1988,Company - Private,Legal,Accounting & Legal,$1 to $2 billion (USD)
 2,Akima Management Services,"Herndon, VA",5001 to 10000 employees,2003,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD)
 3,"Dexcom, Inc.","San Diego, CA",1001 to 5000 employees,1999,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD)
