@@ -46,7 +46,7 @@ CREATE TABLE Salaries (
 );
 -- Table 5 Job ID
 CREATE TABLE IDTable (
-    JobTitleID Int   NOT NULL,
+    JobID Int   NOT NULL,
     CompanyID Int   NOT NULL
 );
 
