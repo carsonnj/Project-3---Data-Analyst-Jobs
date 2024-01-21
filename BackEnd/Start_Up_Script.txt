@@ -1,6 +1,0 @@
-py -m venv venv
-.\venv\Scripts\activate
-$env:FLASK_APP="Project3_BackEnd:app('development')"
-$env:SUPABASE_URL="https://gamswbxksmrvqsoiontt.supabase.co"
-$env:SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdhbXN3Ynhrc21ydnFzb2lvbnR0Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcwNTc2NDM2MCwiZXhwIjoyMDIxMzQwMzYwfQ.P6NDDc9L8rBkYz3alfhnwj93zXIzA8QCUw4eyvDseJg"
-$env:SUPABASE_PASSWORD="ljM8DgFqUMUqrxF7"
