@@ -31,7 +31,7 @@ The following applications were required to be installed for this Project:
 - Development: Shivantika, Tamara, Nick, Swati
     - Nick used the Salary Data Cleaned CSV with the Salary Data and created html, Javascripts, and Python tables to create a line graph based on education level to be used for visualization. 
     - Tamara used OpenLayers Javascript to create a mapping visualization of the open job postings using the USA City Data, Jobs, and Data Analyst Clean Data. The shapes created were based on the company size. The size of the shapes were based on the highest average salary. The color of the shapes determined the total amount of job offers. 
-    - Shivantika created HTML/JSON, and Javascripts for job availability in different sectors/industries. She also created pie chart to show salary with work experience from the datasets provided. 
+    - Shivantika created HTML/JSON, and Javascripts for job availability in different sectors/industries. She also created pie chart to show salary with work experience from the datasets provided. The Sector section was not used in website deployment. 
     - Swati used AnyChart to create the front end design for the main page of the HTML website.  
 - Front End Development: Tamara
     - Tamara deployed Render to host the local HTML to a Vite static webserver. 
@@ -76,5 +76,9 @@ Data Resources/References:
 - The data had to be cleaned as there were more than 1 company listed in the dataset and there were discrepancies with companies being named the same. Also there were some companies found to be diffent based off of different attributes matching the listing. Some examples found were Assembly, RiverPoint, BOLD, Mondo, and Xoriant Corporation. 
 - There were city names found in the original data set that had to be relabeled due to not populating into the Postgres database based off of different cities found on the US Census Bureau website. Some examples found were DC Ranch, AZ (Scottsdale), Greenwood Village, CO (Arapahoe), Henderson, CO (Thornton), and Woodland Hills, CA (Los Angeles). 
 - There were issues with the Vite configuration setup when trying to deploy a multipage static website. 
+
+# Future Exploration 
+- If more time had been permitted, the WordCloud development would have been something to look more forward into. Currently when the job descriptions are clicked, it is automatically taken over to a Wikipedia website. Developing the feature to a different website or part of a dataset would have enhanced the technology. 
+- Additionally, adding the Sector button for visual enhancement. There were issues with the code development and not being able to be deployed. If this could have been fixed, then adding the Sector section would have enhanced the data visualizations. 
 
 
