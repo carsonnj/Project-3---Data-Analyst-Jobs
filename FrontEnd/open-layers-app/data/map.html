@@ -9,7 +9,32 @@
   <body>
     <div id="map">
       <div id="info"></div>
+      <div id="legend">
+        <div id="color-legend">
+          <ul title="Job Offers" style="width:30%; float:left;">
+            <li>Red - 1</li>
+            <li>Green - 2</li>
+            <li>Orange - 3 to 10</li>
+            <li>Yellow - 11 to 50</li>
+            <li>Pink - 51 to 100</li>
+            <li>Blue - 100+</li>
+          </ul>
+        </div>
+        <div id="shape-legend">
+          <ul title="Company Size" style="width:30%; float:right;">
+            <li>Triangle - 1 to 50 employees</li>
+            <li>Diamond - 51 to 200 employees</li>
+            <li>Circle - 201 to 500 employees</li>
+            <li>Star - 501 to 1000 employee</li>
+            <li>Square - 1001 to 5000 employees</li>
+            <li>X - 5001 to 10000 employees</li>
+            <li>Pentagon - 10000+ employees</li>
+          </ul>
+        </div>
+     </div>
+     
     </div>
+    
     <!-- D3 JavaScript -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script type="module" src="../js/map.js"></script>

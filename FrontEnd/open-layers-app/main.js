@@ -4,8 +4,8 @@ document.getElementById("mapButton").onclick = function () {
     location.href = "./data/map.html";
 };
 
-document.getElementById("chartButton").onclick = function () {
-    location.href = "./data/charts.html";
+document.getElementById("salaryButton").onclick = function () {
+    location.href = "./data/salary.html";
 };
 
 document.getElementById("sectorButton").onclick = function () {
