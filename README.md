@@ -32,7 +32,7 @@ The following applications were required to be installed for this Project:
     - Nick used the Salary Data Cleaned CSV with the Salary Data and created html, Javascripts, and Python tables to create a line graph based on education level to be used for visualization. 
     - Tamara used OpenLayers Javascript to create a mapping visualization of the open job postings using the USA City Data, Jobs, and Data Analyst Clean Data. The shapes created were based on the company size. The size of the shapes were based on the highest average salary. The color of the shapes determined the total amount of job offers. 
     - Shivantika created HTML/JSON, and Javascripts for job availability in different sectors/industries. She also created pie chart to show salary with work experience from the datasets provided. 
-        - Swati used AnyChart to create the front end design for the main page of the HTML website.  
+    - Swati used AnyChart to create the front end design for the main page of the HTML website.  
 - Front End Development: Tamara
     - Tamara deployed Render to host the local HTML to a Vite static webserver. 
     - Tamara also used NPM as a build tool to manage dependencies and make deployment simple for front end process. 
