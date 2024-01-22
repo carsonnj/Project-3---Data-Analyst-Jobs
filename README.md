@@ -6,35 +6,37 @@ Trevor Baum, Shivantika Bisen, Nick Carsen, Mamatha Etikyala, Tamara Hundich, Sw
 
 Michigan State University edX Data Analytics Bootcamp 
 
-https://project-3-data-visuals.onrender.com/
+Front End: https://project-3-data-visuals.onrender.com/
+Flask API: https://thundich.pythonanywhere.com/cities
+    ** These links may not be active after 30 days
 
 # Introduction 
-    - The main objective for this group project was for the group as a whole to find datasets to show the relationships between jobs that were available in the United States for data analysts. Once theses datasets were found, they needed to be turned into visualizations to be hosted on a local html server. The back end team was assigned to clean up the data and place the cleaned up code into a database. Once the data was cleaned, the development team created visualizations to be then used by the front end team to host on a local html server. 
+The main objective for this group project was for the group as a whole to find datasets to show the relationships between jobs that were available in the United States for data analysts. Once theses datasets were found, they needed to be turned into visualizations to be hosted on a local html server. The back end team was assigned to clean up the data and place the cleaned up code into a database. Once the data was cleaned, the development team created visualizations to be then used by the front end team to host on a local html server. 
 
 # Installation 
-    - The following applications were required to be installed for this Project: PG Admin 4/Postgres, Pandas, Python, Flask, NodeJs/NPM, Javascript, Vite, Seaborn, D3, and AnyChart. 
+The following applications were required to be installed for this Project: PG Admin 4/Postgres, Pandas, Python, Flask, NodeJs/NPM, Javascript, Vite, Seaborn, D3, and AnyChart. 
     - https://openlayers.org/doc/quickstart.html was used for the insallation process for OpenLayers 
 
 
 # Configuration 
-    - Back End Development: Mamatha, Trevor, Nick, Tamara
-        - Mamatha, Trevor, and Nick pulled the datasets and created more than 5 tables in Postgres.
-        - Trevor, Tamara, and Nick cleaned the datasets for the relevant information to create the data that was needed for development stage. 
-        - Nick, Trevor, and Mamatha collaborated to create the ERD diagram using QuickDBD
-        - Tamara created SQL databases in Postgres to generate the map, which was then hosted into Supabase Database Cloud.
-        - Tamara used Python Anywhere to deploy the Flask application for the map in the cloud. This Flask API was then used to access the database in front end apps. 
-    - Development: Shivantika, Tamara, Nick, Swati
-        - Nick used the Salary Data Cleaned CSV with the Salary Data and created html, Javascripts, and Python tables to create a line graph based on education level to be used for visualization. 
-        - Tamara used OpenLayers Javascript to create a mapping visualization of the open job postings using the USA City Data, Jobs, and Data Analyst Clean Data. The shapes created were based on the company size. The size of the shapes were based on the highest average salary. The color of the shapes determined the total amount of job offers. 
-        - Shivantika created HTML/JSON, and Javascripts for job availability in different sectors/industries. She also created pie chart to show salary with work experience from the datasets provided. 
+- Back End Development: Mamatha, Trevor, Nick, Tamara
+    - Mamatha, Trevor, and Nick pulled the datasets and created more than 5 tables in Postgres.
+    - Trevor, Tamara, and Nick cleaned the datasets for the relevant information to create the data that was needed for development stage. 
+    - Nick, Trevor, and Mamatha collaborated to create the ERD diagram using QuickDBD
+    - Tamara created SQL databases in Postgres to generate the map, which was then hosted into Supabase Database Cloud.
+    - Tamara used Python Anywhere to deploy the Flask application for the map in the cloud. This Flask API was then used to access the database in front end apps. 
+- Development: Shivantika, Tamara, Nick, Swati
+    - Nick used the Salary Data Cleaned CSV with the Salary Data and created html, Javascripts, and Python tables to create a line graph based on education level to be used for visualization. 
+    - Tamara used OpenLayers Javascript to create a mapping visualization of the open job postings using the USA City Data, Jobs, and Data Analyst Clean Data. The shapes created were based on the company size. The size of the shapes were based on the highest average salary. The color of the shapes determined the total amount of job offers. 
+    - Shivantika created HTML/JSON, and Javascripts for job availability in different sectors/industries. She also created pie chart to show salary with work experience from the datasets provided. 
         - Swati used AnyChart to create the front end design for the main page of the HTML website.  
-    - Front End Development: Tamara
-        - Tamara deployed Render to host the local HTML to a Vite static webserver. 
-        - Tamara also used NPM as a build tool to manage dependencies and make deployment simple for front end process. 
-        - Tamara created buttons to show the different visualizations that were to be accessed on the local webpage which was then hosted to Render. 
+- Front End Development: Tamara
+    - Tamara deployed Render to host the local HTML to a Vite static webserver. 
+    - Tamara also used NPM as a build tool to manage dependencies and make deployment simple for front end process. 
+    - Tamara created buttons to show the different visualizations that were to be accessed on the local webpage which was then hosted to Render. 
 
 # Data Resources/References: 
-Data Resources:
+Data Resources/References:
  1) https://www.kaggle.com/code/yashvi/data-analyst-jobs-visualization
     - About Dataset
         - This dataset was created by Picklesueat and contains more than 2000 job listings for data analyst positions, with features such as:
@@ -53,7 +55,6 @@ Data Resources:
  3) https://simplemaps.com/data/us-cities
     - About Dataset:
         - This data stems from combination of United States Census Bureau, USGS, and American Community Survey which includes listings of USA Cities, latitude and longtitude for location of cities, and population for reference mapping. 
-References
 1) Supabase 
     https://supabase.com/
 2) Python Anywhere
