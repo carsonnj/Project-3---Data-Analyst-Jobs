@@ -7,15 +7,18 @@ Trevor Baum, Shivantika Bisen, Nick Carsen, Mamatha Etikyala, Tamara Hundich, Sw
 Michigan State University edX Data Analytics Bootcamp 
 
 Front End: https://project-3-data-visuals.onrender.com/
+
 Flask API: https://thundich.pythonanywhere.com/cities
-    ** These links may not be active after 30 days
+
+** These links may not be active after 30 days
 
 # Introduction 
 The main objective for this group project was for the group as a whole to find datasets to show the relationships between jobs that were available in the United States for data analysts. Once theses datasets were found, they needed to be turned into visualizations to be hosted on a local html server. The back end team was assigned to clean up the data and place the cleaned up code into a database. Once the data was cleaned, the development team created visualizations to be then used by the front end team to host on a local html server. 
 
 # Installation 
-The following applications were required to be installed for this Project: PG Admin 4/Postgres, Pandas, Python, Flask, NodeJs/NPM, Javascript, Vite, Seaborn, D3, and AnyChart. 
-    - https://openlayers.org/doc/quickstart.html was used for the insallation process for OpenLayers 
+The following applications were required to be installed for this Project: 
+- PG Admin 4/Postgres, Pandas, Python, Flask, NodeJs/NPM, Javascript, Vite, Seaborn, D3, and AnyChart. 
+- https://openlayers.org/doc/quickstart.html was used for the insallation process for OpenLayers 
 
 
 # Configuration 
