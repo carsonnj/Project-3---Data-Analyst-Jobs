@@ -185,7 +185,7 @@ function getShape(company_size) {
   } else if (company_size == "1001 to 5000 employees") {
       return "square"
   } else if (company_size == "5001 to 10000 employees") {
-    return "x"
+    return "heptagon"
   } else if (company_size == "10000+ employees") {
     return "pentagon"
   }
