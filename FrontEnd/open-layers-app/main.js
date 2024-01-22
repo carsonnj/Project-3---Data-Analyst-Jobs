@@ -1,15 +1,15 @@
 import './style.css';
 
 document.getElementById("mapButton").onclick = function () {
-    location.href = "/map.html";
+    location.href = "./data/map.html";
 };
 
 document.getElementById("chartButton").onclick = function () {
-    location.href = "/charts.html";
+    location.href = "./data/charts.html";
 };
 
 document.getElementById("sectorButton").onclick = function () {
-    location.href = "/sector.html";
+    location.href = "./data/sector.html";
 };
 
 
