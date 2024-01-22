@@ -8,11 +8,6 @@ document.getElementById("salaryButton").onclick = function () {
     location.href = "./data/salary.html";
 };
 
-document.getElementById("sectorButton").onclick = function () {
-    location.href = "./data/sector.html";
-};
-
-
 anychart.onDocumentReady(function() {
     var data = [
         {"x": "Group Data Analyst", "value": 527000000, category: "Entry-level"},
